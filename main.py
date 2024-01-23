@@ -3,6 +3,8 @@ import csv
 
 pokemons = []
 
+# https://www.w3schools.com/python/python_file_handling.asp
+# https://www.w3schools.in/python/file-handling
 with open('pokemon.csv', newline='') as csv_file:
     file_reader = csv.reader(csv_file, delimiter = ',', quotechar='|')
 
