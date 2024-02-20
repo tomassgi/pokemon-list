@@ -19,7 +19,7 @@ while True:
     print("1. Get pokemon by sequence number")
     print("2. Sort by A-Z")
     print("3. Sort by Z-A")
-    print("4. Search by name")
+    print("4. Search by text in name")
     print("5. Search by length of name")
     print("6. Exit")
 
